@@ -14,11 +14,28 @@
       "downloadURL": "https://github.com/CheesyFuck/uYouPlus/releases/download/v18.02.03-2.3_1-(10)/uYouPlus_18.02.03_2.3.1.ipa",
       "localizedDescription": "uYouPlus but with no noYouPIP so Background Playback can be disabled.",
       "iconURL": "https://www.droidopinions.com/wp-content/uploads/2022/02/135612614-3d3138cb-2a3d-4ed1-9244-905bab8f5c9f.png",
-      "tintColor": "#162434",
+      "tintColor": "#FF0000",
       "size": 94546349,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/CheesyFuck/AltSource/main/screen0.PNG",
 		"https://raw.githubusercontent.com/CheesyFuck/AltSource/main/screen1.PNG"
+      ]
+    },
+ {
+      "name": "Spotilife",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "KDRN",
+      "subtitle": "Tweaked Spotify app that gives you premium features for free",
+      "version": "8.7.92",
+      "versionDate": "2023-01-23",
+      "versionDescription": "First Release of my version of Spotilife for altstore/sidestore",
+      "downloadURL": "https://github.com/CheesyFuck/uYouPlus/releases/download/v18.02.03-2.3_1-(10)/uYouPlus_18.02.03_2.3.1.ipa",
+      "localizedDescription": "Tweaked Spotify app that gives you premium features for free",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/8b/ae/2d8baeae-270c-beda-0d31-3a418a8b8162/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/230x0w.webp",
+      "tintColor": "#1DB954",
+      "size": 60996131,
+      "screenshotURLs": [
+        "https://pbs.twimg.com/media/FSyeLTnWAAESmaS?format=jpg&name=large"
       ]
     }
   ]
