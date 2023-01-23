@@ -13,7 +13,7 @@
       "versionDescription": "First Release of my uYouPlus Fork for altstore/sidestore",
       "downloadURL": "https://github.com/CheesyFuck/uYouPlus/releases/download/v18.02.03-2.3_1-(10)/uYouPlus_18.02.03_2.3.1.ipa",
       "localizedDescription": "uYouPlus but with no noYouPIP so Background Playback can be disabled.",
-      "iconURL": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+      "iconURL": "https://www.droidopinions.com/wp-content/uploads/2022/02/135612614-3d3138cb-2a3d-4ed1-9244-905bab8f5c9f.png",
       "tintColor": "#162434",
       "size": 94546349,
       "screenshotURLs": [
@@ -39,8 +39,8 @@
       "identifier": "new-23-02",
       "caption": "uYouPlus without uYouPIP is now out, giving back the Background Playback option Back.",
       "date": "2023-01-23",
-      "tintColor": "8A28F7",
-      "imageURL": "https://preview.redd.it/pydvj0m2wo581.jpg?width=640&crop=smart&auto=webp&s=2f14071357ffc57895b9050d6d698398053418bb",
+      "tintColor": "FF0000",
+      "imageURL": "https://www.droidopinions.com/wp-content/uploads/2022/02/135612614-3d3138cb-2a3d-4ed1-9244-905bab8f5c9f.png",
       "appID": "com.google.ios.youtube",
       "notify": false
     }
