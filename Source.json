@@ -7,13 +7,13 @@
       "name": "uYouPlus noYouPIP",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "KDRN",
-      "subtitle": "uYouPLus noYouPIP",
+      "subtitle": "uYouPLus but with no noYouPIP so Background Playback can be disabled.",
       "version": "1.0",
       "versionDate": "2023-01-23",
       "versionDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
       "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
       "localizedDescription": "Multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems.",
-      "iconURL": "https://provenance-emu.com/images/icons/icon.512x512.png",
+      "iconURL": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
       "tintColor": "#162434",
       "size": 94546349,
       "screenshotURLs": [
@@ -25,12 +25,22 @@
 ,
   "news": [
     {
-      "title": "My App Now Available!",
+      "title": "Look at this Fat Fuck",
       "identifier": "new-23-01",
-      "caption": "The app to beat all apps.",
+      "caption": "God i cant to squish and bit this sexy mf~",
       "date": "2023-01-23",
       "tintColor": "8A28F7",
       "imageURL": "https://raw.githubusercontent.com/CheesyFuck/AltSource/main/news.png",
+      "appID": "com.google.ios.youtube",
+      "notify": false
+    },
+	{
+      "title": "My App Now Available!",
+      "identifier": "new-23-02",
+      "caption": "The app to beat all apps.",
+      "date": "2023-01-23",
+      "tintColor": "8A28F7",
+      "imageURL": "https://preview.redd.it/pydvj0m2wo581.jpg?width=640&crop=smart&auto=webp&s=2f14071357ffc57895b9050d6d698398053418bb",
       "appID": "com.google.ios.youtube",
       "notify": false
     }
