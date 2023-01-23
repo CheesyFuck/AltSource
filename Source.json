@@ -4,7 +4,7 @@
   "sourceURL": "https://github.com/CheesyFuck/AltSource",
   "apps": [
     {
-      "name": "uYouPlus noYouPIP",
+      "name": "Youtube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Cheesy labs",
       "subtitle": "Basically uYouPlus but without YouPIP so background playback can be disabled.",
@@ -45,7 +45,7 @@
       "tintColor": "8A28F7",
       "imageURL": "https://raw.githubusercontent.com/CheesyFuck/AltSource/main/news.png",
       //"url": "https://myapp.com",
-      "appID": "com.myname.myapp",
+      "appID": "com.google.ios.youtube",
       "notify": false
     }
   ]
