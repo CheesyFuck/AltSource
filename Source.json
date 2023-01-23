@@ -10,7 +10,7 @@
       "subtitle": "uYouPlus but with no noYouPIP so Background Playback can be disabled.",
       "version": "1.0",
       "versionDate": "2023-01-23",
-      "versionDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
+      "versionDescription": "First Release of my uYouPlus Fork for altstore/sidestore",
       "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
       "localizedDescription": "uYouPlus but with no noYouPIP so Background Playback can be disabled.",
       "iconURL": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
