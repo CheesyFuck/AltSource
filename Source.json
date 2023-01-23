@@ -11,7 +11,7 @@
       "version": "18.02.3-2.3~1",
       "versionDate": "2023-01-23",
       "versionDescription": "First Release of my uYouPlus Fork for altstore/sidestore",
-      "downloadURL": "https://central.matavault.workers.dev/0:/uYouPlus_18.02.03_2.3.1.ipa",
+      "downloadURL": "https://github.com/CheesyFuck/uYouPlus/releases/download/v18.02.03-2.3_1-(10)/uYouPlus_18.02.03_2.3.1.ipa",
       "localizedDescription": "uYouPlus but with no noYouPIP so Background Playback can be disabled.",
       "iconURL": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
       "tintColor": "#162434",
