@@ -42,17 +42,17 @@
 ,
   "news": [
     {
-      "title": "Look at this Fat Fuck",
+      "title": "Spotilife is now!",
       "identifier": "new-23-01",
-      "caption": "God i want to squish and bite this sexy mf~",
+      "caption": "Enjoy Premium Features of Spotify for FREE!",
       "date": "2023-01-23",
-      "tintColor": "8A28F7",
-      "imageURL": "https://raw.githubusercontent.com/CheesyFuck/AltSource/main/news.png",
-      "appID": "com.google.ios.youtube",
+      "tintColor": "1DB954",
+      "imageURL": "https://raw.githubusercontent.com/CheesyFuck/AltSource/main/spotilife.png",
+      "appID": "com.spotify.client",
       "notify": false
     },
 	{
-      "title": "My App Now Available!",
+      "title": "Enjoy Ad-Free YT Content",
       "identifier": "new-23-02",
       "caption": "uYouPlus without uYouPIP is now out, giving back the Background Playback option Back.",
       "date": "2023-01-23",
