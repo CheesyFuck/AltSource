@@ -1,27 +1,27 @@
 {
-  "name": "My Source",
-  "identifier": "com.myname.mysource",
-  "sourceURL": "https://github.com/noah978/AltStore-Docs/raw/master/apps.json",
+  "name": "KDRN",
+  "identifier": "com.cheesy.kdrn",
+  "sourceURL": "https://github.com/CheesyFuck/AltSource",
   "apps": [
     {
-      "name": "Youtube",
+      "name": "uYouPlus noYouPIP",
       "bundleIdentifier": "com.myname.myapp",
-      "developerName": "Google Inc.",
-      "subtitle": "The newest and greatest app around.",
+      "developerName": "Cheesy labs",
+      "subtitle": "Basically uYouPlus but without YouPIP so background playback can be disabled.",
       "versions": [
         {
           "version": "1.0",
-          "date": "2020-03-30",
-          "localizedDescription": "First AltStore release!",
-          "downloadURL": "https://myapp.com/myapp-1.0.ipa",
-          "size": 79821,
+          "date": "2023-01-23",
+          "localizedDescription": "Initial Release of uYouPus",
+          "downloadURL": "https://central.matavault.workers.dev/0:/uYouPlus_18.02.03_2.3.1.ipa",
+          "size": 94546349,
           "minOSVersion": "12.0",
-          "maxOSVersion": "14.3"
+          "maxOSVersion": "16.2"
         }
       ],
-      "downloadURL": "https://myapp.com/app.ipa",
+      "downloadURL": "https://central.matavault.workers.dev/0:/uYouPlus_18.02.03_2.3.1.ipa",
       "localizedDescription": "Features include:\n\n• Cool graphics\n• Top notch performance\n• Satisfying interactions",
-      "iconURL": "https://myapp.com/assets/icon.png",
+      "iconURL": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
       "tintColor": "8A28F7",
       "permissions": [
         {
@@ -43,7 +43,7 @@
       "date": "2020-04-21",
       "tintColor": "8A28F7",
       "imageURL": "https://myapp.com/assets/news.png",
-      "url": "https://myapp.com",
+      //"url": "https://myapp.com",
       "appID": "com.myname.myapp",
       "notify": false
     }
