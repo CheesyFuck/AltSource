@@ -8,7 +8,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "KDRN",
       "subtitle": "uYouPlus but with no noYouPIP so Background Playback can be disabled.",
-      "version": "18.02.03",
+      "version": "18.02.3-2.3~1",
       "versionDate": "2023-01-23",
       "versionDescription": "First Release of my uYouPlus Fork for altstore/sidestore",
       "downloadURL": "https://central.matavault.workers.dev/0:/uYouPlus_18.02.03_2.3.1.ipa",
