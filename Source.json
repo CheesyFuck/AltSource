@@ -40,9 +40,9 @@
       "title": "My App Now Available!",
       "identifier": "my-app-available-download",
       "caption": "The app to beat all apps.",
-      "date": "2020-04-21",
+      "date": "2023-01-23",
       "tintColor": "8A28F7",
-      "imageURL": "https://myapp.com/assets/news.png",
+      "imageURL": "https://raw.githubusercontent.com/CheesyFuck/AltSource/main/news.png",
       //"url": "https://myapp.com",
       "appID": "com.myname.myapp",
       "notify": false
